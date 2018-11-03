@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="ejb" url="file://$PROJECT_DIR$/project2-code-business" />
+    <file type="ejb" url="file://$PROJECT_DIR$/project2-code-data" />
+    <file type="ejb" url="file://$PROJECT_DIR$/webflix-business" />
+    <file type="ejb" url="file://$PROJECT_DIR$/webflix-data" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/project2-code-ear" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/webflix-ear" />
+    <file type="web" url="file://$PROJECT_DIR$/project2-code-api" />
+    <file type="web" url="file://$PROJECT_DIR$/project2-code-web" />
+    <file type="web" url="file://$PROJECT_DIR$/webflix-api" />
+    <file type="web" url="file://$PROJECT_DIR$/webflix-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="10" project-jdk-type="JavaSDK" />
+</project>

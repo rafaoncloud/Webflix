@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee/ http://xmlns.jcp.org/xml/ns/javaee/application_8.xsd" version="8">
+  <display-name>webflix-ear</display-name>
+  <module>
+    <web>
+      <web-uri>IS-webflix-api-0.0.1-SNAPSHOT.war</web-uri>
+      <context-root>/webflix-api</context-root>
+    </web>
+  </module>
+  <module>
+    <web>
+      <web-uri>IS-webflix-web-0.0.1-SNAPSHOT.war</web-uri>
+      <context-root>/webflix-web</context-root>
+    </web>
+  </module>
+  <module>
+    <ejb>IS-webflix-business-0.0.1-SNAPSHOT.jar</ejb>
+  </module>
+  <module>
+    <ejb>IS-webflix-data-0.0.1-SNAPSHOT.jar</ejb>
+  </module>
+  <library-directory>lib/</library-directory>
+</application>

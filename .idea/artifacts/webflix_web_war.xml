@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webflix-web:war">
+    <output-path>$PROJECT_DIR$/webflix-web/target</output-path>
+    <root id="archive" name="webflix-web.war">
+      <element id="artifact" artifact-name="webflix-web:war exploded" />
+    </root>
+  </artifact>
+</component>

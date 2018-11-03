@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="webflix-ear:ear">
+    <output-path>$PROJECT_DIR$/webflix-ear/target</output-path>
+    <root id="archive" name="webflix-ear-0.0.1-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="webflix-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

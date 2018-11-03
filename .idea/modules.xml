@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/webflix-business/project2-code-business.iml" filepath="$PROJECT_DIR$/webflix-business/project2-code-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflix-data/project2-code-data.iml" filepath="$PROJECT_DIR$/webflix-data/project2-code-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project2-code-parent.iml" filepath="$PROJECT_DIR$/project2-code-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflix-api/webflix-api.iml" filepath="$PROJECT_DIR$/webflix-api/webflix-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflix-ear/webflix-ear.iml" filepath="$PROJECT_DIR$/webflix-ear/webflix-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflix-parent.iml" filepath="$PROJECT_DIR$/webflix-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflix-web/webflix-web.iml" filepath="$PROJECT_DIR$/webflix-web/webflix-web.iml" />
+    </modules>
+  </component>
+</project>
